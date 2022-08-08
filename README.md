@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UTSAV
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java, data structures in c++ 
 - 📫 You can find me on discord at utsav#1050
 
 <!---
